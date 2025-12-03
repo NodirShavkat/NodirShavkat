@@ -1,5 +1,7 @@
 ## Hi there 👋
 HackerRank: https://www.hackerrank.com/profile/muminovnodirjon3
+LeetCode: https://leetcode.com/u/NodirbekMuminov/
+LincedIn: https://www.linkedin.com/in/nodirbek-mo-minov-undefined-6793242b8/
 <!--
 **NodirShavkat/NodirShavkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
